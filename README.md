@@ -7,13 +7,14 @@ FroggydexCalc simulates frog breeding events based on color combinations, aiming
 - Python 3.x
 - `pandas`
 - `numpy`
+- `numba`
 
 ## Installation
 
 Install dependencies using:
 
 ```bash
-pip3 install pandas numpy
+pip3 install pandas numpy numba
 ```
 
 ## Usage
